@@ -1,0 +1,10 @@
+.team-area {
+  padding: 30px;
+}
+
+.team-item img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
